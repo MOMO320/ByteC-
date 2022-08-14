@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+.vs/
+ByteC++/ByteC++/x64/
+ByteC++/x64/Debug/
