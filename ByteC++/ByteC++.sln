@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteC++", "ByteC++\ByteC++.vcxproj", "{5D062469-60CE-4080-A5E1-FB5B45ADB3FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteC++_01", "ByteC++\ByteC++.vcxproj", "{5D062469-60CE-4080-A5E1-FB5B45ADB3FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteC++_02_Reference", "ByteC++_02_Reference\ByteC++_02_Reference.vcxproj", "{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{5D062469-60CE-4080-A5E1-FB5B45ADB3FC}.Release|x64.Build.0 = Release|x64
 		{5D062469-60CE-4080-A5E1-FB5B45ADB3FC}.Release|x86.ActiveCfg = Release|Win32
 		{5D062469-60CE-4080-A5E1-FB5B45ADB3FC}.Release|x86.Build.0 = Release|Win32
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Debug|x64.ActiveCfg = Debug|x64
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Debug|x64.Build.0 = Debug|x64
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Debug|x86.Build.0 = Debug|Win32
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Release|x64.ActiveCfg = Release|x64
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Release|x64.Build.0 = Release|x64
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Release|x86.ActiveCfg = Release|Win32
+		{6834EFA5-20CF-40AF-BB8E-D2CF7A2F57C4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

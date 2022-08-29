@@ -33,3 +33,6 @@
 .vs/
 ByteC++/ByteC++/x64/
 ByteC++/x64/Debug/
+ByteC++/ByteC++_02_Reference/x64/
+ByteC++/ByteC++_02_Reference/ByteC++_02_Reference.vcxproj.filters
+ByteC++/ByteC++_02_Reference/ByteC++_02_Reference.vcxproj.user
